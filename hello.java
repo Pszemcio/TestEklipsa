@@ -1,5 +1,6 @@
 public class Hello {
-  public static void main(String[] args){
-    System.out.print("Hello World");
-  }
+	public static void main(String[] args) {
+		System.out.println("Hello World 2:0.a!");
+		System.out.println("Nowa linijka");
+	}
 }
